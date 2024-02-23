@@ -161,3 +161,6 @@ cython_debug/
 
 data/
 img/
+**/*.h5
+**/mlruns.db
+model_tf_initial_cv/
